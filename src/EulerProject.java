@@ -1,4 +1,4 @@
-package Package01;
+
 
 public class EulerProject {
     public static void main(String[] args) {
